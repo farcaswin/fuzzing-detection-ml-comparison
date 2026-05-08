@@ -1,3 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
 GEMINI.md
 
+# Dirs
 data/
+models/
+
